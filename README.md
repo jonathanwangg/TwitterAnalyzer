@@ -18,4 +18,7 @@ Some visualizations of data from @BarackObama.
 **Twitter Sources Pie Chart**
 ![Graph of pie_chart](pictures/pie_chart.png "Screenshot of the the Twitter sources pie chart.")
 
+**Percentage of Tweets with a Sentiment**
+![Graph of percentage_sentiments](pictures/percentage_sentiments.png "Screenshot of the the percentage of sentiments.")
+
 Guide: https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-
